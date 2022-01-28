@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
   # Application name:
-  name="python-machine-id",
+  name="pythonmachineid",
 
   # Version number (initial):
   version="0.0.1.dev1",
@@ -12,13 +12,13 @@ setup(
   author_email="ernest.offiong@gmail.com",
 
   # Packages
-  packages=["python-machine-id"],
+  packages=["pythonmachineid"],
 
   # Include additional files into the package
   include_package_data=True,
 
   # Details
-  url="http://pypi.python.org/pypi/python-machine-id_v001.dev1/",
+  url="http://pypi.python.org/pypi/pythonmachineid_v001.dev1/",
 
   license="MIT",
   python_requires='>=3',

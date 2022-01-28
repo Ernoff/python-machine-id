@@ -1,4 +1,4 @@
-from machineid import MachineID
+from .machineid import MachineID
 
 def getMachineId():
   machineId = MachineID()
